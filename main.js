@@ -5,7 +5,7 @@ const navBar = document.querySelector('.nav__bar');
 
 
 window.addEventListener('scroll', () => {
-    navBar.classList.toggle('addNavBarColor', scrollY > 30)
+    navBar.classList.toggle('addNavBarColor', scrollY > 20)
 })
 window.addEventListener('load', () => {
     navList.classList.remove('navActive')  
