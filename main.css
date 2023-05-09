@@ -277,7 +277,7 @@ img{
 }
 .services-box{ 
     position: relative;
-    height: 10rem;
+    height: 25rem;
     display: flex;
     justify-content: center;
     padding: .5rem;
