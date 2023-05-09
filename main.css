@@ -411,6 +411,7 @@ img{
     }
     .welcomeMessage h1{
         font-size: 1.5rem;
+        border: 1px solid var(--arrow-icon);
     }
     .welcomeMessage h3{
         margin-top: 1.5rem;
