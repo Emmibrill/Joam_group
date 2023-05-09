@@ -496,7 +496,7 @@ img{
 }
 @media (max-width:536px) {
     .services-pictures-container{
-        grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+        grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
     }
 }
 
