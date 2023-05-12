@@ -553,7 +553,7 @@ article p{
         border: 1px solid var(--nav-list-color);
     }
     .hambugger .dash{
-        background-color: var(--arrow-icon);
+        background-color: var(--nav-list-color);
     }
     .logo__container{
         width: 100%;
@@ -561,7 +561,7 @@ article p{
         justify-content: flex-end;  
     }
     .logo a h1{
-        color: var(--arrow-icon);
+        color: var(--nav-list-color);
     }
     .nav__list{
         position: fixed;
