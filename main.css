@@ -643,7 +643,7 @@ article p{
         height: 90vh;
     }
     .welcomeMessage h1{
-        color: var(--nav-list-color);
+        color: var(--nav-icon);
         -webkit-text-stroke: 1px black;
         font-size: 2rem;
     }
